@@ -1,5 +1,8 @@
 _repo: Racconti-e-bozzetti_59667
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59667-h/images/cover.jpg
 creator:
   author:
     agent_name: Castelnuovo, Enrico
@@ -11,6 +14,8 @@ creator:
     - https://it.wikipedia.org/wiki/Enrico_Castelnuovo_(scrittore)
     - https://en.wikipedia.org/wiki/Enrico_Castelnuovo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59667#Racconti-e-bozzetti
 gutenberg_issued: '2019-06-03'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,25 @@
+_repo: Racconti-e-bozzetti_59667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castelnuovo, Enrico
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '8678'
+    url: http://www.gutenberg.org/2009/agents/8678
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Enrico_Castelnuovo_(scrittore)
+    - https://en.wikipedia.org/wiki/Enrico_Castelnuovo
+description: ''
+gutenberg_issued: '2019-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59667'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Racconti e bozzetti
+url: http://www.gutenberg.org/ebooks/59667
